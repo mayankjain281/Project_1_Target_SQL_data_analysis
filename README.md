@@ -1,4 +1,4 @@
 # Project_1_Target
 Concept used: SQL exploratory data analysis, Tableau Visual data analysis
 
-file:///C:/Users/MAYANK%20JAIN/Desktop/Project-1%20Target.pdf
+https://drive.google.com/drive/folders/1bys8BgqBbHALs3xx4Z-JfatnizJs2SR6
